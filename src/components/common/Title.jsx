@@ -23,7 +23,7 @@ const TitleWrapper = styled.div`
   font-size: 32px;
   letter-spacing: 0.1em;
   color: var(--clr-white);
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   font-family: var(--font-family-poppins);
   
   h3{
@@ -36,7 +36,7 @@ const TitleWrapper = styled.div`
   }
 
   .line{
-    margin-top: 16px;
+    margin-top: 14px;
     height: 6px;
     width: 160px;
     margin-right: auto;

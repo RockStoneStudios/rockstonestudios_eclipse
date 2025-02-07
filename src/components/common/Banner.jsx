@@ -44,7 +44,7 @@ const BannerWrapper = styled.div`
       letter-spacing: 0.09em;
       line-height: 1.2;
       max-width: 600px;
-      margin-bottom: 40px;
+      margin-bottom: 30px;
     }
 
     .lead-text{

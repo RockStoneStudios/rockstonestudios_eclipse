@@ -21,7 +21,7 @@ const Pagination = ({ pageHandler, nextPage, prevPage, currentPage }) => {
         disabled={prevPage === null ? true : false}
         onClick={pagePrevHandler}
       >
-        <AiOutlineArrowLeft className="me-3" /> Prev
+     <AiOutlineArrowLeft className="me-3" /> Prev
       </button>
       <button
         type="button"

@@ -69,7 +69,7 @@ const HomePage = () => {
           ) : games?.length > 0 ? (
             renderedPopularGames
           ) : (
-            "No games found!"
+            "No Encontramos Juegos!"
           )}
         </div>
       </section>
@@ -149,7 +149,7 @@ const HomeWrapper = styled.div`
   .sc-popular {
     background-color: var(--clr-violet-dark-active);
     .section-btn {
-      margin-top: 60px;
+      margin-top: 40px;
     }
   }
 

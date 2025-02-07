@@ -39,7 +39,7 @@ const Footer = () => {
 
             <form className='newsletter-form'>
               <div className='input-group d-flex align-items-stretch'>
-                <input type="text" className="input-group-field" placeholder = "Your email address" />
+                <input type="text" className="input-group-field" placeholder = "Tu Email" />
                 <button className='input-group-btn bg-white d-inline-flex align-items-center justify-content-center'>
                   <AiOutlineSend size = { 18 } />
                 </button>

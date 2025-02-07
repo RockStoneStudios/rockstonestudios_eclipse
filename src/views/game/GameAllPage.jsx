@@ -36,8 +36,8 @@ const GameAllPage = () => {
         <img src={eclipse} alt="Imagen del juego"/>
         <div className='container_parrafo'>
             <p>
-                Eclipse Nocturno es un juego de terror y supervivencia inspirado en Resident Evil y Alien: Isolation. 
-                Explora un mundo oscuro y lleno de peligros donde el miedo y la estrategia son clave para sobrevivir.
+            Un misterioso eclipse ha sumido un pequeño pueblo en la oscuridad, desatando el pánico entre sus habitantes. Durante este caos, el hermano del protagonista queda atrapado en el pueblo. Al llegar, el protagonista descubre que el lugar está infestado de criaturas deformes y aterradoras, producto de experimentos científicos fallidos. A medida que investiga, se da cuenta de que el eclipse 
+            puede ser un efecto secundario de un experimento más grande y siniestro.
             </p>
         </div>
     </div>
